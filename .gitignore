@@ -6,5 +6,4 @@ bin
 build
 dist
 *.txt
-
-
+*.iml
