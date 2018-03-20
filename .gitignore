@@ -1,0 +1,10 @@
+.metadata/
+.settings/
+_Ds_Store
+*.xml
+bin
+build
+dist
+*.txt
+
+
